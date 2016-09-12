@@ -1,0 +1,81 @@
+12 pts
+
+Bhargavi,
+
+- You did not povide enough evidence to prove that you have ALL the necessary
+  setup for python.
+
+- You did not povide enough evidence to prove that you have a GitHub repository
+  for the class.
+
+- You provided a nice proof that you created a Kaggle account.
+
+About the problems:
+1. 
+The answer you provided is not correct. -1pt
+
+2. 
+You have a correct answer and a good explanation.
+
+3.(a)
+You have a very good explanation.
+
+3.(b)
+You have an incorrect answer, the rank is 2. -1pt
+You did not provide Python code to support your answer.
+
+3.(c) 
+You provided a correct answer and a good explanation.
+You did not provide Python code to support your answer.
+
+4. Gaussian
+The answer you provided is not complete. -1pt
+
+4. Multivariate Gaussian
+The answer you provided is not complete. -1pt
+
+4. Bernoulli
+The formula you provided is correct.
+
+4. Binomial
+The answer you provided is not complete.
+
+4. Exponential
+The answer you provided is not complete.
+
+5.
+You provided a very good explanation.
+
+6.
+The answer you provided is not correct. -1pt
+
+7.(a)
+You provided the correct answer.
+
+7.(b)
+You did not provide an answer. -1pt
+
+8.(a)
+You did not provide an answer. -1pt
+
+8.(b)
+You did not provide an answer. -1pt
+
+8.(c)
+You did not provide an answer. 
+
+8.(d)
+You did not provide an answer. 
+
+About your $\LaTeX$ work:
+- You made several files instead of one. Poorly done. Problems not numerated!
+  You can do better than that.
+
+Overall a barely acceptable work:
+- No python to support your answers -2pts
+- No cover page.
+
+
+Peace,
+
+- Dr. Pablo Rivas
