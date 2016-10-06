@@ -1,0 +1,9 @@
+9 pts
+
+The idea sounds good. It is an old machine learning problem and people are
+always trying to make the object recognition better. My recomendation is to
+start with pictures and recognize objects there. Warning: OpenCV and Python can
+pose a compatibility problem.
+
+
+- Dr. Rivas
